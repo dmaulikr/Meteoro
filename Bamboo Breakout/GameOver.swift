@@ -2,7 +2,7 @@
 //  GameOver.swift
 //  BreakoutSpriteKitTutorial
 //
-//  Copyright © 2016 Razeware LLC. All rights reserved.
+//  Copyright © 2017 Agile Mobile Solutions. All rights reserved.
 //
 
 import SpriteKit
